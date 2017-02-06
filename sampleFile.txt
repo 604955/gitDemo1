@@ -15,9 +15,5 @@ te
 ta
 taa
 aaa
-<<<<<<< 49b377fc11f380c676fc770084376d00b6c43f98
 bb
-=======
 bbbb
-
->>>>>>> bbbb
